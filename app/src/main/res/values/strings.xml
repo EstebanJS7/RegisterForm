@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RegisterForm</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_ruc">RUC</string>
+    <string name="hit_estado_civil">Estado Civil</string>
+    <string name="hit_sexo">Sexo</string>
+    <string name="select_date">Fecha de nacimiento</string>
+</resources>
